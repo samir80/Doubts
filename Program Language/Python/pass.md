@@ -1,4 +1,4 @@
-## pass语句作用
+## pass语句作用(copy from https://blog.csdn.net/largetalk/article/details/8556976)
 
 1. 空语句 do nothing
 2. 保证格式完整
@@ -12,11 +12,7 @@ else
 {
     //do something
 }
-``
-
-
-
-
+```
 
 *对应于python就要这样写：
 ```
