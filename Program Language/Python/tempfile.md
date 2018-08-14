@@ -6,3 +6,4 @@ print(TEMP)
 ```
 ### 运行结果
 
+![Result](https://github.com/samir80/Doubts/blob/master/Program%20Language/Res/IntLogicExpress.png)
